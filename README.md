@@ -26,7 +26,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysEnmanuel&show_icons=true&theme=vue" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ysEnmanuel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysEnmanuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ## 🌟 Featured Projects
@@ -46,6 +47,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ysEnmanuel)
 
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ysEnmanuel/ysEnmanuel/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 <div align="center">
