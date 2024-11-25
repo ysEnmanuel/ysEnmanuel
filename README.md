@@ -23,10 +23,10 @@
 
 </div>
 
-## 📊 GitHub Statshttps://github-readme-stats.vercel.app/api?username=ysEnmanuel
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=ysEnmanuel](https://github-readme-stats.vercel.app/api?username=ysEnmanuel)&show_icons=true&theme=vue" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ysEnmanuel&show_icons=true&theme=vue" alt="GitHub Stats" />
 </div>
 
 ## 🌟 Featured Projects
