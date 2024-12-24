@@ -34,7 +34,6 @@
 
 - 🔍 **BuscandoPersonas.org** - A professional investigation service website
   - Responsive design
-  - Dark mode implementation
   - Multi-language support
   - Integration with various APIs
 
